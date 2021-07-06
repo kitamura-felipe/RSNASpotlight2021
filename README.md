@@ -13,6 +13,16 @@ In the end of this activity, you will be able to:
 
 ### Instructions:
 
-#### 1. Step 1: Access [teachable machine here](https://teachablemachine.withgoogle.com/train/image)
+#### Step 1: Download the [file for Experiment 1 here](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/experiments/Binary.tm) and save it somewhere you can find it later.
+
+#### Step 2: Access [teachable machine here](https://teachablemachine.withgoogle.com/train/image)
+
+You should see this website:
 
 ![Screenshot](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/images/image04.png)
+
+Click on the left upper corner to opem the menu and then click on "Open project from file" as below:
+
+![Screenshot](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/images/image05.png)
+
+Upload the file from Experiment 1 and wait for it to be loaded.
