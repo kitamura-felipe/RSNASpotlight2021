@@ -9,7 +9,6 @@ This is a guide for the session "From Theory to Practice: Live Demonstration" in
 By the end of this activity, you will be able to:
 
 * Understand the overall process to train a deep learning model
-* Understand the impact of a small or unbalanced dataset in model performance
 * Learn basic concepts on how to assess model generalizability and performance
 
 ### Instructions:
