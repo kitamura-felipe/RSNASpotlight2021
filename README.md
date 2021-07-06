@@ -4,7 +4,7 @@
 
 This is a guide for the session "From Theory to Practice: Live Demonstration" in the *RSNA Spotlight Course 2021 AI Implementation: Building Expertise and Influence*.
 
-### Objetive:
+### Objective:
 
 By the end of this activity, you will be able to:
 
