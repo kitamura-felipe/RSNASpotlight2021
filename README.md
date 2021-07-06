@@ -15,7 +15,7 @@ By the end of this activity, you will be able to:
 
 #### Step 1: Download the [file for Experiment 1 here](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/experiments/Binary.tm?raw=true) and save it somewhere you can find it later.
 
-#### Step 2: Right click [teachable machine link here](https://teachablemachine.withgoogle.com/train/image) and choose "Open in a new tab" (or hold CTRL key + left mouse click)
+#### Step 2: Right click on the [teachable machine link here](https://teachablemachine.withgoogle.com/train/image) and choose "Open in a new tab" (or hold CTRL key + left mouse click)
 
 You should see this website:
 
@@ -25,7 +25,7 @@ You should see this website:
 
 ![Screenshot](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/images/image05.png)
 
-#### Step 4: Upload the file from Experiment 1 (from Step 1) and wait for it to load.
+#### Step 4: Upload the file from Experiment 1 (Step 1) and wait for it to load.
 
 You should see multiple head CT images loaded onto the platform organized by presence or absence of hemorrhage:
 
