@@ -21,7 +21,7 @@ You should see this website:
 
 ![Screenshot](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/images/image04.png)
 
-#### Step 3: Click on the left upper corner to opem the menu and then click on "Open project from file" as below:
+#### Step 3: Click on the left upper corner to open the menu and then click on "Open project from file" as below:
 
 ![Screenshot](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/images/image05.png)
 
