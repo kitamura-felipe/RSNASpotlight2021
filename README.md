@@ -25,7 +25,7 @@ You should see this website:
 
 ![Screenshot](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/images/image05.png)
 
-#### Step 4: Upload the file from Experiment 1 and wait for it to load.
+#### Step 4: Upload the file from Experiment 1 (from Step 1) and wait for it to load.
 
 You should see multiple head CT images loaded onto the platform organized by presence or absence of hemorrhage:
 
