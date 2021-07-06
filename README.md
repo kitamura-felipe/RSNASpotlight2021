@@ -15,7 +15,7 @@ By the end of this activity, you will be able to:
 
 #### Step 1: Download the [file for Experiment 1 here](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/experiments/Binary.tm?raw=true) and save it somewhere you can find it later.
 
-#### Step 2: Access [teachable machine here](https://teachablemachine.withgoogle.com/train/image){:target="_blank" rel="noopener"}
+#### Step 2: Right click [teachable machine link here](https://teachablemachine.withgoogle.com/train/image) and choose "Open in a new tab" (or hold CTRL key + left mouse click)
 
 You should see this website:
 
