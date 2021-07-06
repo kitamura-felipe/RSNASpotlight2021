@@ -1,4 +1,4 @@
-# RSNASpotlight2021
+# RSNA Spotlight 2021
 
 ### From Theory to Practice: Live Demonstration 
 
