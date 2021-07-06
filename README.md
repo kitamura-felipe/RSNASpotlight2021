@@ -6,14 +6,14 @@ This is a guide for the section "From Theory to Practice: Live Demonstration" in
 
 ### Objetive:
 
-In the end of this activity, you will be able to:
+By the end of this activity, you will be able to:
 
 * Understand the overall process to train a deep learning model
 * Understand the impact of a small or unbalanced dataset in model performance
 
 ### Instructions:
 
-#### Step 1: Download the [file for Experiment 1 here](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/experiments/Binary.tm) and save it somewhere you can find it later.
+#### Step 1: Download the [file for Experiment 1 here](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/experiments/Binary.tm?raw=true) and save it somewhere you can find it later.
 
 #### Step 2: Access [teachable machine here](https://teachablemachine.withgoogle.com/train/image)
 
