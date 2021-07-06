@@ -25,4 +25,4 @@ You should see this website:
 
 ![Screenshot](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/images/image05.png)
 
-#### Step 4: Upload the file from Experiment 1 and wait for it to be loaded.
+#### Step 4: Upload the file from Experiment 1 and wait for it to load.
