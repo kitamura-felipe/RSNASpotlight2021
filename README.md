@@ -71,6 +71,6 @@ After training, experiment 5 should look like this:
 
 ![Screenshot](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/images/experiment5.png)
 
-In this experiment we are also training a multiclass model, which means the algorithm will predict only 1 of 5 classes (normal, intraventricular, subdural, intraparenchymal, subdural). But now we have not limited the number of images per class, which leads to a huge class imbalance. Althoug accuracy has risen, the confusion matrix shows the high accuracy is biased because of the overwhelming number of normal cases. The model is predicting almost everything as normal.
+In this experiment we are also training a multiclass model, which means the algorithm will predict only 1 of 5 classes (normal, intraventricular, subdural, intraparenchymal, subdural). But now we have not limited the number of images per class, which leads to a huge class imbalance. Although accuracy has risen, the confusion matrix shows the high accuracy is biased because of the overwhelming number of normal cases. The model is predicting almost everything as normal.
 
 
