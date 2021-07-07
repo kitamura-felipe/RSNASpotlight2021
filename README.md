@@ -97,4 +97,4 @@ After training, experiment 7 should look like this:
 
 ![Screenshot](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/images/experiment7.png)
 
-In this experiment we are also training a multiclass model with 3 classes (normal, subdural, intraparenchymal). Because of the preprocessing step done to color-code the bleedings, the model is able to achieve a significantly higher accuracy.
+In this experiment we are also training a multiclass model with 3 classes (normal, subdural, intraparenchymal). Because of the preprocessing step done to color-code the bleedings, the model is able to achieve a significantly higher accuracy. This color-coding was done by assigning the red color to voxels that where within a certaing range of Hounsfield Units. Although this simple thresholding rule is not perfectly accurate to identify bleedings, it helps the model achieve a better result.
