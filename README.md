@@ -14,7 +14,12 @@ By the end of this activity, you will be able to:
 
 ### Acknowledgements
 
-This session used a subset of the 2019 RSNA Intracranial Hemorrhage Dataset. The paper describing the construction of the dataset can be found in this link: [Flanders A.E., Prevedello L.M., Shih G. et al.](https://pubs.rsna.org/doi/10.1148/ryai.2020190211)
+This session used a subset of the 2019 RSNA Intracranial Hemorrhage Dataset. The paper describing the construction of the dataset can be found in this link: [Flanders A.E., Prevedello L.M., Shih G. et al. Construction of a Machine Learning Dataset through Collaboration: The RSNA 2019 Brain CT Hemorrhage Challenge](https://pubs.rsna.org/doi/10.1148/ryai.2020190211)
+
+### Instructors
+
+* Luciano M. Prevedello, MD, MPH
+* Felipe C. Kitamura, MD, MSc, PhD
 
 ### Instructions:
 
