@@ -91,7 +91,7 @@ After training, experiment 6 should look like this:
 
 In this experiment we are also training a multiclass model, but this time the algorithm will predict only 1 of 3 classes (normal, subdural, intraparenchymal). Because of the limited number of images in each class (80) to keep it balanced, the accuracy is not impressive. Now let's compare it to experiment 7.
 
-#### Step 10: Repeat steps 3 to 5, but now load the [file for Experiment 7 here](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/experiments/experiment7.tm?raw=true)
+#### Step 11: Repeat steps 3 to 5, but now load the [file for Experiment 7 here](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/experiments/experiment7.tm?raw=true)
 
 After training, experiment 7 should look like this:
 
