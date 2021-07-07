@@ -35,15 +35,23 @@ You should see multiple head CT images loaded onto the platform organized by pre
 
 After trainingm, experiment 1 should look like this:
 
-![Screenshot](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/experiments/experiment1.png)
+![Screenshot](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/images/experiment1.png)
 
 Notice that the accuracy is not as good as one may expect from a machine learning model. This is dus to the limited number of cases in this experiment (30 normal + 30 hemorrhage)
 
 
 #### Step 6: Repeat steps 3 to 5, but now load the [file for Experiment 2 here](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/experiments/experiment2.tm?raw=true)
 
-After trainingm, experiment 2 should look like this:
+After training, experiment 2 should look like this:
 
-![Screenshot](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/experiments/experiment2.png)
+![Screenshot](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/images/experiment2.png)
 
 Notice that the accuracy seems to have improved significantly. However, a closer look at the confusion matrix shows that most of the positive cases have been misclassified as negative. This is due to the heavy class imbalance thas was simulated in this experiment (1000 normal + 30 hemorrhage).
+
+#### Step 7: Repeat steps 3 to 5, but now load the [file for Experiment 3 here](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/experiments/experiment3b.tm?raw=true)
+
+After training, experiment 3 should look like this:
+
+![Screenshot](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/images/experiment3b.png)
+
+Notice that the accuracy is lower than in the last experiment. However, a closer look at the confusion matrix shows that is indeed correctly classifying most of the positive caes, although still nor perfect. In this experiment our dataset was balanced (1000 normal + 1000 hemorrhage).
