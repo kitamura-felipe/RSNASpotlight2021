@@ -11,6 +11,11 @@ By the end of this activity, you will be able to:
 * Understand the overall process to train a deep learning model
 * Learn basic concepts on how to assess model generalizability and performance
 
+
+### Acknowledgements
+
+This session used a subset of the 2019 RSNA Intracranial Hemorrhage Dataset. The paper describing the construction of the dataset can be found in this link: [Flanders A.E., Prevedello L.M., Shih G. et al.](https://pubs.rsna.org/doi/10.1148/ryai.2020190211)
+
 ### Instructions:
 
 #### Step 1: Download the [file for Experiment 1 here](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/experiments/experiment1.tm?raw=true) and save it somewhere you can find it later.
