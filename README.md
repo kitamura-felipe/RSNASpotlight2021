@@ -21,6 +21,9 @@ This session used a subset of the 2019 RSNA Intracranial Hemorrhage Dataset. The
 * Luciano M. Prevedello, MD, MPH
 * Felipe C. Kitamura, MD, MSc, PhD
 
+
+![Gradient Descent](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/images/graddescent01.gif)
+
 ### Instructions:
 
 #### Step 1: Download the [file for Experiment 1 here](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/experiments/experiment1.tm?raw=true) and save it somewhere you can find it later.
