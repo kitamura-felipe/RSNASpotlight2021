@@ -25,7 +25,7 @@ This session used a subset of the 2019 RSNA Intracranial Hemorrhage Dataset. The
 
 ![Gradient Descent](https://github.com/kitamura-felipe/RSNASpotlight2021/blob/main/images/graddescent01.gif)
 
-The path our algorithm will walk during the learning process is dependent on several factors. The learning rate is one of them, as well as the order we present our images to the model during the training process. These are some of the many reasons why the training process can be different if rerun in other machines. It also means you could get different results than the ones shown here if you run these experiments in your computer. 
+The path our algorithm will walk in the loss landscape during the learning process is dependent on several factors. The learning rate is one of them, as well as the order we present our images to the model during the training process. These are some of the many reasons why the training process can be different if rerun in other machines. It also means you could get different results than the ones shown here if you run these experiments in your computer. 
 
 Although there is this variability in the training phase, after we finish trainng you should expect to get always the same results for a given test set.
 
